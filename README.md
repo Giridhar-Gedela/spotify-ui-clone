@@ -25,12 +25,11 @@ This project replicates the **look and feel of Spotify’s music streaming inter
 
 ```bash
 📦 spotify-ui-clone
-├── index.html        # 🎯 Main entry point
-|── style.css     # 🎨 Custom styles
-├── assets
-|    |_Homework Assets
-|        # 🖼️ Icons, covers, logos
-└── README.md         # 📘 Project documentation
+├── index.html        # 🎯 Main entry point (UI layout & structure)
+├── style.css         # 🎨 Custom styles (UI styling & theming)
+├── assets/           # 📂 Folder for all static assets
+│   └── Homework Assets/   # 🖼️ Icons, covers, logos
+└── README.md         # 📘 Project documentation (setup & usage guide)
 ```
 
 ## 🔧 Setup & Usage
