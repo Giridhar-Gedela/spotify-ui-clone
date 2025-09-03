@@ -28,7 +28,8 @@ This project replicates the **look and feel of Spotify’s music streaming inter
 ├── index.html        # 🎯 Main entry point
 |── style.css     # 🎨 Custom styles
 ├── assets
-|── images/       # 🖼️ Icons, covers, logos
+|    |_Homework Assets
+|        # 🖼️ Icons, covers, logos
 └── README.md         # 📘 Project documentation
 ```
 
