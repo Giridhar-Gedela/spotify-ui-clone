@@ -1,23 +1,35 @@
 # 🎵 Spotify UI Clone  
 
-A **front-end clone** of the **Spotify Web Player UI**, built using **HTML, CSS, and Bootstrap**.  
-This project replicates the **look and feel of Spotify’s music streaming interface** with a **responsive design**.  
+A simple **Spotify web player UI clone** built using **HTML, CSS, and JavaScript**.  
+This project replicates the look and feel of Spotify’s desktop app, focusing on clean design, responsive layout, and interactive music controls.  
 
 ---
 
-## 🚀 Features  
-- 🎨 **Modern UI** – Inspired by *Spotify’s sleek design*.  
-- 📱 **Fully Responsive Layout** – Works across **desktop, tablet, and mobile devices**.  
-- ⚡ **Bootstrap Powered** – Fast and **mobile-first styling**.  
-- 🖼️ **Static Content** – *UI-only (no backend or real streaming)*.  
-- 🎧 **Interactive Components** – Includes **navbar, sidebar, player controls, and playlists**.  
+## 🚀 Demo  
+
+![Spotify Clone Preview](assets/preview.png)  
 
 ---
+
+## ✨ Features  
+
+- 🎧 **Music Player Controls** – Play, pause, next/previous track  
+- 🖼️ **Album Covers & Thumbnails** – Display album art dynamically  
+- 📻 **Volume & Progress Slider** – Styled sliders with smooth UI  
+- 📱 **Responsive Layout** – Works across devices  
+
+---
+
+## 📂 Project Structure  
+
+
 
 ## 🛠️ Tech Stack  
-- 🏗️ **HTML5** → Structure  
-- 🎨 **CSS3** → Styling  
-- 📦 **Bootstrap 5** → Responsive layout & components  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -32,19 +44,12 @@ This project replicates the **look and feel of Spotify’s music streaming inter
 └── README.md         # 📘 Project documentation (setup & usage guide)
 ```
 
-## 🔧 Setup & Usage
+## 📖 How to Run  
 
-#### Clone the repository:
-
-git clone https://github.com/Giridhar-Gedela/spotify-ui-clone.git
-
-
-Open the project folder.
-
-Run ```index.html``` in your browser.
-
-✅ No extra setup required – it’s a static front-end project.
-
+ Clone the repository:  
+   ```bash
+   git clone https://github.com/Giridhar-Gedela/spotify-ui-clone.git
+```
 <!--📸 Screenshots -->
 
 
@@ -61,9 +66,5 @@ Integrate with the Spotify Web API for real streaming features.
 
 Contributions, issues, and feature requests are welcome.
 You can fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 
 ---
