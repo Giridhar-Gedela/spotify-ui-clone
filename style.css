@@ -17,6 +17,7 @@ body {
     width: 320px;
     border-radius: 0.75rem;
     margin-right: 0.5rem;
+    display:flex;
 }
 
 .main-content {
@@ -397,4 +398,5 @@ h3{
         background-color: #1bd760;
         margin-top: 0px;
 }
+
 
